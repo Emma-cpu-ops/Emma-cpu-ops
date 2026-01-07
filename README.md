@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c’est Emmanuelle
+# 👋 Bonjour, moi c’est Emma
 
 🎯 Développeuse en apprentissage  
 💻 Intéressée par le web, Git et l’open source  
