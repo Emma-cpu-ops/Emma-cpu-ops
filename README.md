@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Bonjour, moi c’est Emmanuelle
 
-<!--
-**Emma-cpu-ops/Emma-cpu-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Développeuse en apprentissage  
+💻 Intéressée par le web, Git et l’open source  
+🌱 En train d’apprendre : JavaScript, Git, MySQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
+
+## 🎯 Objectifs
+- Approfondir mes compétences en **développement web**
+- Consolider mes bases en **bases de données (MySQL)**
+- Réaliser des projets complets (front + base de données)
+- Contribuer à des projets open source
+
+---
+
+## 📂 Projets
+- 🔗 [Portfolio](https://github.com/TON_USER/portfolio)
+- 🔗 Mini projet MySQL – gestion de données (en cours)
+- 🔗 Projet à venir
+
+---
+
+## 📫 Me contacter
+- GitHub : https://github.com/Emma-cpu-ops
+- LinkedIn : www.linkedin.com/in/
+aka-grâce-ange-emmanuelle-b219492b8
+- Telegram : @emma22533
+- Email : agraceangeemmanuelle@gmail.com
