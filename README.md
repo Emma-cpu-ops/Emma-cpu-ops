@@ -28,7 +28,7 @@
 
 ## 📂 Projets
 - 🔗 [Portfolio](https://github.com/TON_USER/portfolio)
-- 🔗 Mini projet MySQL – gestion de données (en cours)
+- 🔗 TradeMentor AI (en cours)
 - 🔗 Projet à venir
 
 ---
