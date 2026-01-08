@@ -2,7 +2,7 @@
 
 🎯 Développeuse en apprentissage  
 💻 Intéressée par le web, Git et l’open source  
-🌱 En train d’apprendre : JavaScript, Git, MySQL, apache, symfony
+🌱 En train d’apprendre : JavaScript, Git, MySQL, apache, symfony, php
 
 ---
 
@@ -14,6 +14,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-Framework-success?logo=symfony)
+![PHP](https://img.shields.io/badge/PHP-8.4-blue?logo=php)
 
 ---
 
