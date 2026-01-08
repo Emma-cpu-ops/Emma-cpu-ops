@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-Symfony-7-black?logo=symfony)
+![Symfony](https://img.shields.io/badge/Symfony-Framework-success?logo=symfony)
 
 ---
 
