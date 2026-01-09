@@ -27,7 +27,7 @@
 ---
 
 ## 📂 Projets
-- 🔗 [Portfolio]([https://github.com/TON_USER/portfolio](https://emma-cpu-ops.github.io/myportfolio/))
+- 🔗 [Portfolio]([https://emma-cpu-ops.github.io/myportfolio/])
 - 🔗 TradeMentor AI (en cours)
 - 🔗 Projet scolaire (à venir)
 
