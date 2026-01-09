@@ -27,7 +27,8 @@
 ---
 
 ## 📂 Projets
-- 🔗 [![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/)
+- [![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/)
+  
 - 🔗 TradeMentor AI (en cours)
 - 🔗 Projet scolaire (à venir)
 
