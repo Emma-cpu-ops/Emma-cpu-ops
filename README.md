@@ -28,7 +28,8 @@
 
 ## 📂 Projets
 - [![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/)
-  
+
+- 🔗 Age-calculator (https://emma-cpu-ops.github.io/age-calculator/)
 - 🔗 TradeMentor AI (en cours)
 - 🔗 Projet scolaire (à venir)
 
