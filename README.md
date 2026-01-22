@@ -31,6 +31,9 @@
 
 [![Voir l'Age Calculator](https://img.shields.io/badge/🧮_Age_Calculator-Live_Demo-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://emma-cpu-ops.github.io/age-calculator/)
 
+[![Voir mon projet Yes/No](https://img.shields.io/badge/👍🏽👎🏽_Voir_mon_projet-Yes%2FNo-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/yes-no/)
+
+
 - 🔗 TradeMentor AI (en cours)
 - 🔗 Projet scolaire (à venir)
 
