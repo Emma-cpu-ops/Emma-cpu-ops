@@ -2,13 +2,18 @@
 
 🎯 Développeuse en apprentissage  
 💻 Intéressée par le web, Git et l’open source  
-🌱 En train d’apprendre : JavaScript, Git, MySQL, apache, symfony, php
+🌱 En train d’apprendre...
+📑 Phases de mes projets à venir:
+Idée → Conception → Design → Développement → Tests → Hébergement → Mise en ligne → Maintenance
 
 ---
 
 ## 🛠️ Compétences
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+!![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-282a36?logo=ssh&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -21,7 +26,7 @@
 ## 🎯 Objectifs
 - Approfondir mes compétences en **développement web**
 - Consolider mes bases en **bases de données (MySQL)**
-- Réaliser des projets complets (front + base de données)
+- Réaliser des projets complets (front + base de données + Back)
 - Contribuer à des projets open source
 
 ---
@@ -34,8 +39,9 @@
 [![Voir mon projet Yes/No](https://img.shields.io/badge/👍🏽👎🏽_Voir_mon_projet-Yes%2FNo-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/yes-no/)
 
 
-- 🔗 TradeMentor AI (en cours)
-- 🔗 Projet scolaire (à venir)
+
+- 🔗 TradeMentor AI (Idée)
+- 🔗 Stagia (Idée)
 
 ---
 
