@@ -43,8 +43,8 @@ Idée → Conception → Design → Développement → Tests → Hébergement �
 
 [![Voir mon projet UI Enhancement](https://img.shields.io/badge/🎨_Voir_mon_projet-UI_Enhancement-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/ui-enhancement-project/)
 
-- 🔗 TradeMentor AI (Idée)
-- 🔗 Stagia (Idée)
+- 🔗 
+- 🔗 
 
 ---
 
