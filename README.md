@@ -79,13 +79,6 @@
 
 ---
 
-## 📊 Mes statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emma-cpu-ops&show_icons=true&hide_border=true)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=emma-cpu-ops&layout=compact&hide_border=true)
-
----
 
 ## 📫 Me contacter
 
@@ -94,4 +87,10 @@
 
 ---
 
-### ✨ *Apprendre. Créer. Améliorer. Et recommencer.* 🚀
+<div align="center">
+
+✨ « Apprendre, construire, améliorer. »
+
+Merci de visiter mon profil ! N'hésite pas à explorer mes projets. 🚀
+
+</div>
