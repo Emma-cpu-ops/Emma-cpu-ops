@@ -15,8 +15,8 @@
 - 🌱 Je continue d'approfondir mes compétences en développement web
 - 📚 Je me forme de manière autonome à travers des vidéos, documentations et projets pratiques
 - 🤖 J'utilise également l'IA comme **outil d'apprentissage et de compréhension**
-- 💼 Je recherche une **alternance de 12 ou 24 mois**
-- 🏢 Rythme : **3 semaines en entreprise / 1 semaine à l'école**
+- 💼 Je recherche un contrat de travail ou d'apprentissage
+- 🏢 Rythme : **3 semaines en entreprise / 1 semaine à l'école** pour une alternance
 
 ---
 
@@ -60,6 +60,8 @@
 [![Voir mon projet Site Vitrine](https://img.shields.io/badge/🏠_Voir_mon_projet-Site_Vitrine-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/localbiz-vitrine/)
 
 [![Voir mon projet UI Enhancement](https://img.shields.io/badge/🎨_Voir_mon_projet-UI_Enhancement-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/ui-enhancement-project/)
+
+[![Voir mon projet sur les mangas](https://img.shields.io/badge/🤡_Voir_mon_projet-Manga-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/Manga/)
 
 ---
 
