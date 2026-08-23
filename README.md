@@ -1,38 +1,56 @@
-# 👋 Bonjour, moi c’est Emma
+# 👋 Bonjour, moi c'est Emma
 
-🎯 Développeuse en apprentissage  
-💻 Intéressée par le web, Git et l’open source  
-🌱 En train d’apprendre
+### 💻 Développeuse Web | 🚀 En apprentissage continu
 
-📑 Phases de mes projets à venir:
-Idée → Conception → Design → Développement → Tests → Hébergement → Mise en ligne → Maintenance
+🎓 Étudiante en **Master Expert IT, Développement et Data** à IRIS Paris  
+🔎 À la recherche d'une **alternance en développement web / logiciel** pour 2026-2027  
+💻 Intéressée par le **développement web, les applications et les nouvelles technologies**  
+🌱 J'apprends continuellement à travers des **projets, ressources en ligne, documentations et outils d'IA**
+
+---
+
+## 🎯 En ce moment
+
+- 🔭 Je développe et améliore mes projets personnels
+- 🌱 Je continue d'approfondir mes compétences en développement web
+- 📚 Je me forme de manière autonome à travers des vidéos, documentations et projets pratiques
+- 🤖 J'utilise également l'IA comme **outil d'apprentissage et de compréhension**
+- 💼 Je recherche une **alternance de 12 ou 24 mois**
+- 🏢 Rythme : **3 semaines en entreprise / 1 semaine à l'école**
 
 ---
 
 ## 🛠️ Compétences
+
+### 💻 Développement Web
+
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-282a36?logo=ssh&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&logoColor=white)
+
+### 🗄️ Bases de données
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### ⚙️ Outils & Environnement
+
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-282a36?logo=ssh&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-Framework-success?logo=symfony)
-![PHP](https://img.shields.io/badge/PHP-8.4-blue?logo=php)
-
----
-
-## 🎯 Objectifs
-- Approfondir mes compétences en **développement web**
-- Consolider mes bases en **bases de données (MySQL)**
-- Réaliser des projets complets (front + base de données + Back)
-- Contribuer à des projets open source
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 
 ---
 
 ## 📂 Projets
+
 [![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/)
 
 [![Voir l'Age Calculator](https://img.shields.io/badge/🧮_Age_Calculator-Live_Demo-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://emma-cpu-ops.github.io/age-calculator/)
@@ -43,11 +61,37 @@ Idée → Conception → Design → Développement → Tests → Hébergement �
 
 [![Voir mon projet UI Enhancement](https://img.shields.io/badge/🎨_Voir_mon_projet-UI_Enhancement-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/ui-enhancement-project/)
 
-- 🔗 
-- 🔗 
+---
+
+## 🧠 Ma façon de travailler
+
+💡 **Idée** → 📝 **Conception** → 🎨 **Design** → 💻 **Développement** → 🧪 **Tests** → 🚀 **Déploiement** → 🔄 **Maintenance**
+
+---
+
+## 🎯 Mes objectifs
+
+- Approfondir mes compétences en **développement web**
+- Consolider mes connaissances en **bases de données**
+- Développer des projets **front-end et back-end**
+- Apprendre de nouvelles technologies à travers la pratique
+- Contribuer progressivement à des projets **open source**
+
+---
+
+## 📊 Mes statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emma-cpu-ops&show_icons=true&hide_border=true)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=emma-cpu-ops&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Me contacter
-- Telegram : @emma22533
-- Email : agraceangeemmanuelle@gmail.com
+
+- 📧 **Email :** agraceangeemmanuelle@gmail.com
+- 💬 **Telegram :** @emma22533
+
+---
+
+### ✨ *Apprendre. Créer. Améliorer. Et recommencer.* 🚀
