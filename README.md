@@ -53,7 +53,7 @@
 
 [![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/)
 
-[![Voir le projet EC Association](https://img.shields.io/badge/💼_Projet_de_stage-EC_Association-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/ec-association-project)
+[![Voir le Projet_de_stage](https://img.shields.io/badge/💼_Projet_de_stage-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/Projet_de_stage)
 
 [![Voir l'Age Calculator](https://img.shields.io/badge/🧮_Age_Calculator-Live_Demo-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://emma-cpu-ops.github.io/age-calculator/)
 
