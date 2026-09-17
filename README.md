@@ -71,7 +71,7 @@
 
 ## 📂 Projets
 
-[![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/)
+[![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)]([https://emma-cpu-ops.github.io/myportfolio/](https://emma-cpu-ops.github.io/myportfolio/?refresh=1a5beb8))
 
 [![Voir le projet EC Association](https://img.shields.io/badge/💼_Projet_de_stage-EC_Association-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/Projet_de_stage)
 
