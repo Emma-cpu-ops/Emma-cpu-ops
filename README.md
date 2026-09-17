@@ -20,33 +20,53 @@
 
 ---
 
-## 🛠️ Compétences
+## 🛠️ Compétences techniques
 
 ### 💻 Développement Web
 
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&logoColor=white)
+![REST API](https://img.shields.io/badge/API_REST-005571?logo=api&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-6C63FF?logo=css3&logoColor=white)
+![Low-Code / No-Code](https://img.shields.io/badge/Low--Code%20%2F%20No--Code-7B61FF)
 
 ### 🗄️ Bases de données
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
-### ⚙️ Outils & Environnement
+- Conception de schémas
+- Optimisation de requêtes
 
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+### ☁️ Systèmes, Serveurs & Cloud
+
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-282A36?logo=ssh&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+### 🔧 Outils
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-282a36?logo=ssh&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoftoffice&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![AI](https://img.shields.io/badge/AI-412991?logo=openai&logoColor=white)
 
+### 📋 Méthodologies
+
+![Agile](https://img.shields.io/badge/Agile-2496ED)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F)
 ---
 
 ## 📂 Projets
