@@ -71,19 +71,21 @@
 
 ## 📂 Projets
 
-[![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/?refresh=1a5beb8))
+[![Voir mon Portfolio en ligne](https://img.shields.io/badge/🚀_Voir_mon_Portfolio-en_ligne-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/myportfolio/?refresh=1a5beb8)
 
-[![Voir le projet EC Association](https://img.shields.io/badge/💼_Projet_de_stage-EC_Association-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/Projet_de_stage)
+[![Voir le projet EC Association](https://img.shields.io/badge/💼_Projet_de_stage-EC_Association-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/Projet_de_stage/?refresh=1a5beb8)
 
-[![Voir l'Age Calculator](https://img.shields.io/badge/🧮_Age_Calculator-Live_Demo-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://emma-cpu-ops.github.io/age-calculator/)
+[![Voir l'Age Calculator](https://img.shields.io/badge/🧮_Age_Calculator-Live_Demo-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://emma-cpu-ops.github.io/age-calculator/?refresh=1a5beb8)
 
-[![Voir mon projet Yes/No](https://img.shields.io/badge/👍🏽👎🏽_Voir_mon_projet-Yes%2FNo-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/yes-no/)
+[![Voir mon projet Yes/No](https://img.shields.io/badge/👍🏽👎🏽_Voir_mon_projet-Yes%2FNo-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/yes-no/?refresh=1a5beb8)
 
-[![Voir mon projet Site Vitrine](https://img.shields.io/badge/🏠_Voir_mon_projet-Site_Vitrine-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/localbiz-vitrine/)
+[![Voir mon projet Site Vitrine](https://img.shields.io/badge/🏠_Voir_mon_projet-Site_Vitrine-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/localbiz-vitrine/?refresh=1a5beb8)
 
-[![Voir mon projet UI Enhancement](https://img.shields.io/badge/🎨_Voir_mon_projet-UI_Enhancement-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/ui-enhancement-project/)
+[![Voir mon projet UI Enhancement](https://img.shields.io/badge/🎨_Voir_mon_projet-UI_Enhancement-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/ui-enhancement-project/?refresh=1a5beb8)
 
-[![Voir mon projet sur les mangas](https://img.shields.io/badge/🤡_Voir_mon_projet-Manga-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/Manga/)
+[![Voir mon projet sur les mangas](https://img.shields.io/badge/🤡_Voir_mon_projet-Manga-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/Manga/?refresh=1a5beb8)
+
+[![Voir mon projet sur CodeRoast](https://img.shields.io/badge/🕵️‍♂️_Voir_mon_projet-CodeRoast_3000-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/CodeRoast_3000/?refresh=1a5beb8)
 
 ---
 
