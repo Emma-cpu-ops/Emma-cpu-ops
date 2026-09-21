@@ -87,6 +87,8 @@
 
 [![Voir mon projet sur CodeRoast](https://img.shields.io/badge/🕵️‍♂️_Voir_mon_projet-CodeRoast_3000-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/CodeRoast_3000/?refresh=1a5beb8)
 
+[![Voir mon projet sur les mangas](https://img.shields.io/badge/🤡_Voir_mon_projet-Excusinator-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/Excusinator/?refresh=1a5beb8)
+
 ---
 
 ## 🧠 Ma façon de travailler
