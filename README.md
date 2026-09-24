@@ -89,7 +89,9 @@
 
 [![Voir mon projet sur le générateur d'excuses](https://img.shields.io/badge/🤡_Voir_mon_projet-Excusinator-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/Excusinator/?refresh=1a5beb8)
 
-[![Voir mon projet sur le TimeTrix](https://img.shields.io/badge/⌚️_Voir_mon_projet-TimeTrix-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/TimeTrix/?refresh=1a5beb8)---
+[![Voir mon projet sur le TimeTrix](https://img.shields.io/badge/⌚️_Voir_mon_projet-TimeTrix-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/TimeTrix/?refresh=1a5beb8)
+
+---
 
 ## 🧠 Ma façon de travailler
 
