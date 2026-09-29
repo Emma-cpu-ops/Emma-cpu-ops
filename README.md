@@ -92,6 +92,9 @@
 [![Voir mon projet sur le TimeTrix](https://img.shields.io/badge/⌚️_Voir_mon_projet-TimeTrix-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/TimeTrix/?refresh=1a5beb8)
 
 [![Voir mon projet DevOrNot](https://img.shields.io/badge/👍🏽👎🏽_Voir_mon_projet-DevOrNot-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/DevOrNot/?refresh=1a5beb8)
+
+[![Voir mon projet FakeBourse](https://img.shields.io/badge/📈_Voir_mon_projet-FakeBourse-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/FakeBourse/?refresh=1a5beb8)
+
 ---
 
 ## 🧠 Ma façon de travailler
