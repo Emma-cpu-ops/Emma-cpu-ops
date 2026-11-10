@@ -95,9 +95,9 @@
 
 [![Voir mon projet FakeBourse](https://img.shields.io/badge/_Voir_mon_projet-FakeBourse-blue?style=for-the-badge&logo=github)](https://emma-cpu-ops.github.io/FakeBourse/?refresh=1a5beb8)
 
-[![Voir mon projet de cours e-commerce CMS-Projet](https://img.shields.io/badge/_Voir_mon_projet-CMS-Projet-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/CMS-Projet/?refresh=1a5beb8)
+[![Voir mon projet de cours e-commerce](https://img.shields.io/badge/_Voir_mon_projet-CMS-Projet-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/CMS-Projet/?refresh=1a5beb8)
 
-[![Voir mon projet e-commerce Déployer](https://img.shields.io/badge/_Voir_mon_projetCherrydiyaccessories-blue?style=for-the-badge&logo=github)](https://cherry-diy-accessories.freehosting.dev/?refresh=1a5beb8)
+[![Voir mon projet e-commerce Déployer](https://img.shields.io/badge/_Voir_mon_projet-Cherrydiyaccessories-blue?style=for-the-badge&logo=github)](https://cherry-diy-accessories.freehosting.dev/?refresh=1a5beb8)
 
 [![Voir mon projet Tradingviewindicator](https://img.shields.io/badge/_Voir_mon_projet-Tradingviewindicator-blue?style=for-the-badge&logo=github)](https://github.com/Emma-cpu-ops/Tradingview-indicator/?refresh=1a5beb8)
 
